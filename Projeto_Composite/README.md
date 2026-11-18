@@ -4,6 +4,11 @@ Este repositório contém a implementação prática e o relatório técnico do 
 
 ---
 
+## 👤 Integrantes
+- Matheus Henrique dos Santos
+- Henrique Medeiros
+- Fernando Augusto
+
 ## 📁 Estrutura do Projeto
 
 ```text
